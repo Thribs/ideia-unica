@@ -19,8 +19,8 @@ function Home() {
     return (
         <div>
             <h4>Home 4</h4>
-            {/* <Contador />
-            <div>Teste</div> */}
+            <Contador />
+            <div>Teste</div>
         </div>
     )
 }
