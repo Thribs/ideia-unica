@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-function Sobre() {
+function Teste() {
     return (
         <div>
             <h1>Teste</h1>
