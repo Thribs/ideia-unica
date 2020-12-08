@@ -3,16 +3,16 @@ import Link from 'next/link';
 function Sobre() {
     return (
         <div>
-            <h1>Sobre</h1>
+            <h1>Teste</h1>
             
             <Link href="/">
             <a>Acessar página Home</a>
             </Link>
-            <Link href="/teste">
-            <a>Acessar página Teste</a>
+            <Link href="/sobre">
+            <a>Acessar página Sobre</a>
             </Link>
         </div>
     )
 }
 
-export default Sobre
+export default Teste
