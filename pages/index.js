@@ -6,10 +6,10 @@ function Home() {
             <h1>Home</h1>
 
             <Link href="/sobre">
-            <h4><a>Acessar página Sobre</a></h4>
+            <a>Acessar página Sobre</a>
             </Link>
             <Link href="/tempo">
-            <h4><a>Acessar página Tempo</a></h4>
+            <h4>Acessar página Tempo</h4>
             </Link>
             <div>
             <button>

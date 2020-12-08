@@ -11,7 +11,7 @@ function Tempo() {
             <a>Acessar página Home</a>
             </Link>
             <Link href="/sobre">
-            <h4><a>Acessar página Sobre</a></h4>
+            <a>Acessar página Sobre</a>
             </Link>
             <h4>{dynamicDateString} (dinâmico)</h4>
         </div>
