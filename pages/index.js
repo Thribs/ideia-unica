@@ -12,7 +12,7 @@ function Home() {
             <a>Acessar página Tempo</a>
             </Link>
             <div>
-            <button>
+            <button onClick="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Report</a>
             </button>
             </div>
