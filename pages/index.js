@@ -9,7 +9,7 @@ function Home() {
             <a>Acessar página Sobre</a>
             </Link>
             <Link href="/tempo">
-            <h4>Acessar página Tempo</h4>
+            <a>Acessar página Tempo</a>
             </Link>
             <div>
             <button>
