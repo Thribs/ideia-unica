@@ -19,6 +19,7 @@ function Home() {
     return (
         <div>
             <h4>Home 4</h4>
+            <a href="/sobre">Acessar página Sobre</a>
             <Contador />
             <div>Teste</div>
         </div>
