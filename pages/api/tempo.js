@@ -8,7 +8,7 @@ async function tempo(req, res) {
 
     res.json({
         date: dynamicDate.toGMTString(),
-        inscritos: apiSecret
+        inscritos: inscritos
     })
 
 }
